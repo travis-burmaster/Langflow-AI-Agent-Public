@@ -1,4 +1,4 @@
-<h1 align="center">AI Agent Chat</h1>
+<h1 align="center">Marathon Running Coach AI Agent</h1>
 
 <p align="center">
  An advanced AI-powered chat application built with Next.js and Supabase
