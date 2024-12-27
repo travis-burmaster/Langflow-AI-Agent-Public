@@ -1,22 +1,15 @@
+import { Metadata } from 'next';
 import ResetPasswordForm from "@/components/auth/ForgotPasswordForm";
 
-export interface SearchParams {
-  success?: string;
-}
+export const metadata: Metadata = {
+  title: 'Reset Password',
+  description: 'Reset your password',
+};
 
-interface PageProps {
-  searchParams: SearchParams;
-}
-
-export default function ResetPasswordPage({ searchParams }: PageProps) {
+export default function ResetPasswordPage() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <ResetPasswordForm />
-      {searchParams.success && (
-        <div className="mt-4 p-4 bg-green-100 text-green-700 rounded-lg">
-          {searchParams.success}
-        </div>
-      )}
     </div>
   );
 }

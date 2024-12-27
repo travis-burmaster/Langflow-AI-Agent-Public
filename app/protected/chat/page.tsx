@@ -72,7 +72,7 @@ export default function ChatPage() {
       }, []);
       setChatSessions(uniqueSessions);
     } catch (error) {
-      console.error('Error fetching chat sessions:', error);
+      // console.error('Error fetching chat sessions:', error);
     }
   };
 
@@ -322,7 +322,7 @@ export default function ChatPage() {
         </main>
 
         <footer className="bg-white border-t border-gray-200 p-4 text-center text-sm text-gray-500">
-          © 2024 AI Real Estate AgentChat. All rights reserved.
+          © 2024 AI Agent Chat. All rights reserved.
         </footer>
       </div>
     </div>
