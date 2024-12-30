@@ -87,8 +87,8 @@ export async function POST(request: Request) {
             fileName,
             chunkIndex: i,
             totalChunks: chunks.length
-          },
-          user_id: session.user.id
+          }
+          //,user_id: session.user.id
         });
 
       if (insertError) {
