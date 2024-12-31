@@ -1,1 +1,23 @@
-LS0tCm5hbWU6IEZlYXR1cmUgcmVxdWVzdAphYm91dDogU3VnZ2VzdCBhbiBpZGVhIGZvciB0aGlzIHByb2plY3QKdGl0bGU6ICdbRkVBVFVSRV0gJwpsYWJlbHM6IGVuaGFuY2VtZW50CmFzc2lnbmVlczogJycKCi0tLQoKKipJcyB5b3VyIGZlYXR1cmUgcmVxdWVzdCByZWxhdGVkIHRvIGEgcHJvYmxlbT8gUGxlYXNlIGRlc2NyaWJlLioqCkEgY2xlYXIgYW5kIGNvbmNpc2UgZGVzY3JpcHRpb24gb2Ygd2hhdCB0aGUgcHJvYmxlbSBpcy4KCioqRGVzY3JpYmUgdGhlIHNvbHV0aW9uIHlvdSdkIGxpa2UqKgpBIGNsZWFyIGFuZCBjb25jaXNlIGRlc2NyaXB0aW9uIG9mIHdoYXQgeW91IHdhbnQgdG8gaGFwcGVuLgoKKipEZXNjcmliZSBhbHRlcm5hdGl2ZXMgeW91J3ZlIGNvbnNpZGVyZWQqKgpBIGNsZWFyIGFuZCBjb25jaXNlIGRlc2NyaXB0aW9uIG9mIGFueSBhbHRlcm5hdGl2ZSBzb2x1dGlvbnMgb3IgZmVhdHVyZXMgeW91J3ZlIGNvbnNpZGVyZWQuCgoqKkJyYW5jaCBuYW1pbmcgY29udmVudGlvbioqClBsZWFzZSBjcmVhdGUgYSBicmFuY2ggd2l0aCB0aGUgZm9sbG93aW5nIGZvcm1hdDogZmVhdHVyZS9baXNzdWUtbnVtYmVyXS1zaG9ydC1kZXNjcmlwdGlvbgoKKipBZGRpdGlvbmFsIGNvbnRleHQqKgpBZGQgYW55IG90aGVyIGNvbnRleHQgb3Igc2NyZWVuc2hvdHMgYWJvdXQgdGhlIGZlYXR1cmUgcmVxdWVzdCBoZXJlLg==
+---
+name: Feature request
+about: Suggest an idea for this project
+title: '[FEATURE] '
+labels: enhancement
+assignees: ''
+
+---
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is.
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Branch naming convention**
+Please create a branch with the following format: feature/[issue-number]-short-description
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
